@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/bottonsheet_bg.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/circle.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/more.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/right.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/riple.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/rotate.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/drawable/splash_baground.xml" value="0.2703125" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_allowacess.xml" value="0.25416666666666665" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_music.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_play_song.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_video_files.xml" value="0.264" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/activity_video_player.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/brt_dilo_item.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/custom_playback.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/folder_item.xml" value="0.264" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/list_item.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/navheader.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/playback_iconlayout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/row_video.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/video_item.xml" value="0.264" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/videos_bs_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/layout/vol_dilo_item.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/menu/menu_folder.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/menu/menu_icon.xml" value="0.1" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/menu/menu_search.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio/Videoplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

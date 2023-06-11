@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video player</string>
+    <string name="Open">Video player</string>
+    <string name="Close">Video player</string>
+</resources>
